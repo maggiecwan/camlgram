@@ -1,0 +1,22 @@
+(** @canonical Chat.App *)
+module App = Chat__App
+
+
+(** @canonical Chat.Author *)
+module Author = Chat__Author
+
+
+(** @canonical Chat.Chatscreen *)
+module Chatscreen = Chat__Chatscreen
+
+
+(** @canonical Chat.Client *)
+module Client = Chat__Client
+
+
+(** @canonical Chat.Server *)
+module Server = Chat__Server
+
+
+(** @canonical Chat.State *)
+module State = Chat__State
